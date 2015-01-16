@@ -1,0 +1,10 @@
+<p>Filter by: <input type="text" ng-model="t" /></p>
+<ul>
+	<li ng-repeat="person in persons | filter:t | orderBy:person.name">
+		{{person.name + ", " + person.from}}
+	</li>
+</ul>
+<p>New person</p>
+<p>Name: <input type="text" ng-model="newPerson.name" /></p>
+<p>From: <input type="text" ng-model="newPerson.from" /></p>
+<button ng-click="addPerson()">Add Person</button>
