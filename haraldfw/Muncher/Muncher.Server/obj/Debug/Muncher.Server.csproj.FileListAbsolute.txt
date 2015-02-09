@@ -1,0 +1,14 @@
+D:\Dev\GitHub\potential-shame\haraldfw\Muncher\Muncher.Server\bin\Muncher.Server.dll
+D:\Dev\GitHub\potential-shame\haraldfw\Muncher\Muncher.Server\bin\Muncher.Server.pdb
+D:\Dev\GitHub\potential-shame\haraldfw\Muncher\Muncher.Server\obj\Debug\Muncher.Server.dll
+D:\Dev\GitHub\potential-shame\haraldfw\Muncher\Muncher.Server\obj\Debug\Muncher.Server.pdb
+D:\Dev\GitHub\potential-shame\haraldfw\Muncher\Muncher.Server\obj\Debug\Muncher.Server.csprojResolveAssemblyReference.cache
+D:\Dev\GitHub\potential-shame\haraldfw\Muncher\Muncher.Server\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Dev\GitHub\potential-shame\haraldfw\Muncher\Muncher.Server\bin\Microsoft.Owin.dll
+D:\Dev\GitHub\potential-shame\haraldfw\Muncher\Muncher.Server\bin\Microsoft.Owin.Security.dll
+D:\Dev\GitHub\potential-shame\haraldfw\Muncher\Muncher.Server\bin\Newtonsoft.Json.dll
+D:\Dev\GitHub\potential-shame\haraldfw\Muncher\Muncher.Server\bin\Owin.dll
+D:\Dev\GitHub\potential-shame\haraldfw\Muncher\Muncher.Server\bin\Newtonsoft.Json.xml
+D:\Dev\GitHub\potential-shame\haraldfw\Muncher\Muncher.Server\bin\Microsoft.Owin.xml
+D:\Dev\GitHub\potential-shame\haraldfw\Muncher\Muncher.Server\bin\Microsoft.Owin.Security.xml
+D:\Dev\GitHub\potential-shame\haraldfw\Muncher\Muncher.Server\bin\Microsoft.AspNet.SignalR.Core.xml

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Muncher.Server", "Muncher.Server\Muncher.Server.csproj", "{493094D7-0325-484E-B8B4-E6AB28739055}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Muncher.Droid", "Muncher.Droid\Muncher.Droid.csproj", "{5DC8226A-E953-455C-BEB7-8275ADF6955C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Muncher.Shared", "Muncher.Shared\Muncher.Shared.csproj", "{615220B6-EE6F-44A0-B536-1D5EB9FEC1E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{493094D7-0325-484E-B8B4-E6AB28739055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493094D7-0325-484E-B8B4-E6AB28739055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493094D7-0325-484E-B8B4-E6AB28739055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493094D7-0325-484E-B8B4-E6AB28739055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC8226A-E953-455C-BEB7-8275ADF6955C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC8226A-E953-455C-BEB7-8275ADF6955C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC8226A-E953-455C-BEB7-8275ADF6955C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC8226A-E953-455C-BEB7-8275ADF6955C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{615220B6-EE6F-44A0-B536-1D5EB9FEC1E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{615220B6-EE6F-44A0-B536-1D5EB9FEC1E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{615220B6-EE6F-44A0-B536-1D5EB9FEC1E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{615220B6-EE6F-44A0-B536-1D5EB9FEC1E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
