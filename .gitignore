@@ -10,6 +10,9 @@
 *.userosscache
 *.sln.docstates
 
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -194,3 +197,13 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+
+
+### XamarinStudio ###
+bin/
+obj/
+*.userprefs
+
+### Muncher ###
+*/MuncherOLD/*
+MuncherClient/*

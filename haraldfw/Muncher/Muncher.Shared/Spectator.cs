@@ -6,24 +6,21 @@ using System.Threading.Tasks;
 
 namespace Muncher.Shared
 {
-    public class Player : User
+    class Spectator : User
     {
+        private Dictionary<string, Dictionary<string, double>> stats;
 
-        private Dictionary<string, double> stats;
-
-        public Player(string conId, string username)
+        public Spectator(string conId, string username)
             // call baseclass constructor with given conId and username
             : base(conId, username)
         {
-            // initiate stats
-            stats = new Dictionary<string,double>();
+            stats = new Dictionary<string, Dictionary<string, double>>();
         }
 
         public override void updateStat(string username, string statId, int value)
         {
-            // if this is not the player the server thinks, do nothing
-            if (base.username != username) return;
-            stats[statId] = value;
+            // update given stat of given username to given value
+            stats[username][statId] = value;
         }
     }
 }
